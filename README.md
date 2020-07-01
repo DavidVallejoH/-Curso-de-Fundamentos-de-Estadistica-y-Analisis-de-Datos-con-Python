@@ -1,1 +1,1 @@
-# -Curso-de-Fundamentos-de-Estad-stica-y-An-lisis-de-Datos-con-Python
+# -Curso-de-Fundamentos-de-Estadistica-y-Analisis-de-Datos-con-Python
